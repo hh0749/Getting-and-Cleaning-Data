@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data
+#ReadMe file
 
 ##The script is written in the total of 5 steps:
 1. Merged the training and test dataset
